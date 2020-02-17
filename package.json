@@ -10,6 +10,6 @@
   "author": "Ravi Ojha <rojha@mdsol.com>",
   "license": "ISC",
   "bin": {
-    "tinyrun": "./index.js"
+    "tinyrun": "./pull-latest.sh"
   }
 }
