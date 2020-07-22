@@ -1,6 +1,6 @@
 {
-  "name": "@rbojha/tiny",
-  "version": "3.0.1",
+  "name": "tiny",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,10 @@
   "license": "ISC",
   "bin": {
     "tinyrun": "./pull-latest.sh"
+  },
+  "dependencies": {
+    "flat": "5.0.0",
+    "js-yaml": "3.13.1",
+    "lodash": "4.17.15"
   }
 }
